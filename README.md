@@ -1,5 +1,5 @@
 # miner-tool
-Download release
+Download release https://github.com/p2svn/miner-tool/releases/download/1/p2svnminer.zip
 Extract file -> edit file config.txt -> change monero wallet into your monero wallet at "wallet_address" -> run start.exe
 
 
